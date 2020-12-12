@@ -1,5 +1,8 @@
 # vue-shop
 
+## Screenshot
+![screenshot](screenshot.jpg)
+
 ## Project setup
 ```
 yarn install
